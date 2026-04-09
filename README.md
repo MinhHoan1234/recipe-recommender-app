@@ -1,6 +1,6 @@
 # 🍔 Smart AI Recipe Recommender System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([CHÈN_LINK_STREAMLIT_CỦA_BẠN_VÀO_ĐÂY])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recipe-recommender-app-tran-hoan.streamlit.app/)
 
 ## 📌 Project Overview
 This is an End-to-End Machine Learning project that recommends cooking recipes based on the **Food.com dataset**. The system acts as a smart kitchen assistant, helping users discover new meals either by exploring what ingredients they currently have in their fridge or by analyzing their past rating behaviors.
