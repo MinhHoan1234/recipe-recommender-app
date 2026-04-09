@@ -32,6 +32,7 @@ The repository is organized following modular ML engineering best practices:
 ├── README.md
 └── requirements.txt        # Project dependencies
 
+```
 ## 🛠️ Technology Stack
 Language: Python 3.12
 
