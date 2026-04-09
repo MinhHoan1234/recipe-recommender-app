@@ -48,8 +48,8 @@ If you want to run this project on your local machine, follow these steps:
 1. Clone the repository
 
 ```Bash
-git clone [CHÈN_LINK_GITHUB_CỦA_BẠN_VÀO_ĐÂY]
-cd [TÊN_THƯ_MỤC_GITHUB_CỦA_BẠN]
+git clone [https://github.com/MinhHoan1234/recipe-recommender-app.git](https://github.com/MinhHoan1234/recipe-recommender-app.git)
+cd recipe-recommender-app
 ```
 2. Install dependencies
 
