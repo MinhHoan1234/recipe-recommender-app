@@ -47,18 +47,21 @@ If you want to run this project on your local machine, follow these steps:
 
 1. Clone the repository
 
-Bash
+```Bash
 git clone [CHÈN_LINK_GITHUB_CỦA_BẠN_VÀO_ĐÂY]
 cd [TÊN_THƯ_MỤC_GITHUB_CỦA_BẠN]
+```
 2. Install dependencies
 
-Bash
+```Bash
 pip install -r requirements.txt
+```
+
 3. Run the Streamlit App
 
-Bash
+```Bash
 streamlit run app.py
-
+```
 
 ## 🧠 Technical Highlights & Challenges Solved
 Overcoming Memory Constraints: Handled a MemoryError during the Collaborative Filtering phase by implementing a "Pruning the Long Tail" strategy, filtering out inactive users and niche recipes to optimize the interaction matrix.
